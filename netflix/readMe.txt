@@ -13,6 +13,3 @@ Program izleme ekranında ise programa puan vermek için bir alan açılır ve 1
 istenir.Bu puanı yazıp göndere tıkladıktan sonra vermiş olduğunuz puan veritabanına eklenir.
 
 
-
-NOT : Projede kayıt ol ekranında seçilen film türleriyle ilgili olarak en yüksek 6 puan alan film 
-ve arama kısmındaki tür için aranan bölüm çalışmamaktadır.
